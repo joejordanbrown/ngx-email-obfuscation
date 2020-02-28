@@ -1,0 +1,18 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-class-suffix": false,
+    "directive-selector": [
+      true,
+      "attribute",
+      "email",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "email",
+      "kebab-case"
+    ]
+  }
+}

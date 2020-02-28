@@ -17,7 +17,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-email-obfuscation": [
+        "dist/ngx-email-obfuscation/ngx-email-obfuscation",
+        "dist/ngx-email-obfuscation"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
