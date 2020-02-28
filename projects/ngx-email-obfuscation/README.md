@@ -1,6 +1,6 @@
 # Angular Email Obfuscation
 
-Email Address Obfuscation helps to prevent spam by hiding your email addresses in your angular application from email crawlers, bots and harvesters while remaining visible to your site visitors.
+Email Address Obfuscation helps to prevent spam by hiding your email addresses in your angular application from email crawlers, bots and harvesters while remaining visible to your visitors.
 
 ### Demo
 
@@ -32,6 +32,12 @@ Add `emailObfuscation` directive to the parent element of the email address.
 ```html
 Contact us at <span emailObfuscation>support@example.com</span>
 ```
+
+### Obfuscation
+
+Using this directive, it will convert `support@example.com` to `moc.elpmaxe@troppus`</code>` which is the reverse, it will use CSS to display the correct way.
+
+On hovering over the email address it will be converted into an anchor tag with a mailto link.
 
 ### Issues
 
