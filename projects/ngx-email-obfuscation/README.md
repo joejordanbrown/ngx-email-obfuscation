@@ -32,3 +32,11 @@ Add `emailObfuscation` directive to the parent element of the email address.
 ```html
 Contact us at <span emailObfuscation>support@example.com</span>
 ```
+
+### Issues
+
+Please report bugs and issues [here](https://github.com/joejordanbrown/ngx-email-obfuscation/issues).
+
+### License
+
+MIT © [Joe Jordan Brown](https://github.com/joejordanbrown)

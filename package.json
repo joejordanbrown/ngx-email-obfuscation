@@ -1,13 +1,36 @@
 {
   "name": "ngx-email-obfuscation",
-  "version": "0.0.0",
+  "description": "Angular Email Obfuscation",
+  "version": "0.0.1",
+  "author": {
+    "name": "Joe Jordan Brown",
+    "email": "joe.jordan.brown@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joejordanbrown/ngx-email-obfuscation"
+  },
+  "bugs": {
+    "url": "https://github.com/joejordanbrown/ngx-email-obfuscation/issues"
+  },
+  "keywords": [
+    "angular",
+    "angular email",
+    "angular email obfuscation",
+    "material",
+    "components",
+    "popover",
+    "ngx"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "release": "standard-version",
   },
   "private": true,
   "dependencies": {
