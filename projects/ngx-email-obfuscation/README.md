@@ -1,5 +1,7 @@
 # Angular Email Obfuscation
 
+[![npm](https://img.shields.io/npm/v/ngx-email-obfuscation.svg)](https://www.npmjs.com/package/ngx-email-obfuscation) [![GitHub license](https://img.shields.io/github/license/joejordanbrown/ngx-email-obfuscation)](https://github.com/joejordanbrown/ngx-email-obfuscation/blob/master/LICENSE.md) [![GitHub issues](https://img.shields.io/github/issues/joejordanbrown/ngx-email-obfuscation)](https://github.com/joejordanbrown/ngx-email-obfuscation/issues)
+
 Email Address Obfuscation helps to prevent spam by hiding your email addresses in your angular application from email crawlers, bots and harvesters while remaining visible to your visitors.
 
 ### Demo
